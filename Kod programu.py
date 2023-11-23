@@ -1,2 +1,3 @@
 #komentarz
-#modyfikacja
+#modyfika
+a=2+3
